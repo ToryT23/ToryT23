@@ -3,8 +3,7 @@ Hi 👋 My name is Tory Theus
 
 I am a software engineer!
 -----------------------
-
-It all started with a conversation on an assembly line. A co-worker and I were picking each others brain and somehow we got on the topic of software development. I told him I had always been amazed at the endless possibilities of creating new things; however, I didn't know how to get started. Four years later I made the jump. I am excited to see what the future holds!
+C#, React, JS
 
 * 🌍  I'm based in Tennessee.
 * 🧠  I'm learning C#
